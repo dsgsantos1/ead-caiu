@@ -13,7 +13,7 @@ const Home =  () => {
 		setOnOff(data.status)
 	});
 	
-
+//Deixar bonitinho
 	return (
 		<div id='content'>
 			<p hidden={onOff}>
